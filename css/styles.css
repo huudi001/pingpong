@@ -1,0 +1,83 @@
+.jumbotron {
+  background-image: url("../images/number.jpg");
+  background-repeat: repeat;
+  color: #8F1C04;
+  padding: 60px;
+  margin-bottom: 0px;
+}
+
+.jumbotron .glyphicon {
+  font-size: 128px;
+  color: #000;
+  margin-top: 5px;
+}
+
+.jumbotron .glyphicon:hover {
+  color: #fff;
+}
+
+.jumbotron h1 {
+    font-size: 164px;
+}
+
+.nostyle {
+  text-decoration: none;
+  color: #8F1C04;
+}
+
+.nostyle:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+.sidebar {
+  background-color: #c7e8fd;
+  padding: 50px;
+  padding-top: 30px;
+  margin: 30px;
+  box-shadow: 10px 10px #000;
+}
+
+.sidebar a {
+  color: #8F1C04;
+}
+
+.sidebar h4 {
+  color: #8F1C04;
+}
+
+.container {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.game {
+  margin: 60px;
+  margin-left: 0px;
+  box-shadow: 10px 10px #000;
+  background-color: #f7d4df;
+  padding: 30px;
+}
+
+.game h4 {
+  color: #8F1C04;
+}
+
+.game h2 {
+  color: #08087A;
+}
+
+.btn {
+  font-style: italic;
+  margin-top: 25px;
+}
+
+body {
+  background-image: url("../img/speckle.jpg");
+  background-repeat: repeat;
+}
+
+.glyphicon {
+  font-size: 24px;
+  color: #F2BC14;
+}
